@@ -33,11 +33,11 @@
 
 
 ## 2.For Sharing/Rating/Ads
-#####1.iRate
+##### 1.iRate
 提示框提醒rate的小型库
 > https://github.com/nicklockwood/iRate.git
 
-#####2.ShareSDK For iOS
+##### 2.ShareSDK For iOS
 支持40多种主流社交平台
 > http://www.mob.com/downloadDetail/ShareSDK/ios
 
