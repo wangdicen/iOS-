@@ -31,7 +31,6 @@
 脉冲效果
 > https://github.com/shu223/PulsingHalo.git
 
-
 ## 2.For Sharing/Rating/Ads
 ##### 1.iRate
 提示框提醒rate的小型库
@@ -40,4 +39,9 @@
 ##### 2.ShareSDK For iOS
 支持40多种主流社交平台
 > http://www.mob.com/downloadDetail/ShareSDK/ios
+
+## 3.For Performance Optimization 性能优化
+##### 1.RunLoopWorkDistribution
+通过RunLoop每次循环只设置一个图片，来优化瀑布流大量高清图片的显示
+> https://github.com/diwu/RunLoopWorkDistribution.git
 
