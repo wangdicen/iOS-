@@ -31,10 +31,14 @@
 脉冲效果
 > https://github.com/shu223/PulsingHalo.git
 
+##### 8.仿映客直播刷礼物
+> https://github.com/rasping/PresentAnimation.git
+
 ## 2.For Sharing/Rating/Ads
 ##### 1.iRate
 提示框提醒rate的小型库
 > https://github.com/nicklockwood/iRate.git
+
 
 ##### 2.ShareSDK For iOS
 支持40多种主流社交平台
