@@ -36,7 +36,7 @@
 
 ##### 9。YYWebImage
 加载webimage的利器。。。之前加gif图用的是sdwebimage内存消耗太高，这个挺好的。
-https://github.com/ibireme/YYWebImage.git
+> https://github.com/ibireme/YYWebImage.git
 
 ## 2.For Sharing/Rating/Ads
 ##### 1.iRate
