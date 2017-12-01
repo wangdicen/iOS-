@@ -34,6 +34,10 @@
 ##### 8.仿映客直播刷礼物
 > https://github.com/rasping/PresentAnimation.git
 
+##### 9。YYWebImage
+加载webimage的利器。。。之前加gif图用的是sdwebimage内存消耗太高，这个挺好的。
+https://github.com/ibireme/YYWebImage.git
+
 ## 2.For Sharing/Rating/Ads
 ##### 1.iRate
 提示框提醒rate的小型库
