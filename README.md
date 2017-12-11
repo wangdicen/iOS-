@@ -38,6 +38,14 @@
 加载webimage的利器。。。之前加gif图用的是sdwebimage内存消耗太高，这个挺好的。
 > https://github.com/ibireme/YYWebImage.git
 
+##### 10.EllipsePageControl
+椭球形页面选择器
+> https://github.com/hackxhj/EllipsePageControl.git
+
+##### 11.XHDate
+根据服务器返回的2017-10-20 11:32:45格式时间，修改成各式各样的时间格式的利器
+> https://github.com/CoderZhuXH/XHDate.git
+
 ## 2.For Sharing/Rating/Ads
 ##### 1.iRate
 提示框提醒rate的小型库
