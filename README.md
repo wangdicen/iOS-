@@ -46,6 +46,10 @@
 根据服务器返回的2017-10-20 11:32:45格式时间，修改成各式各样的时间格式的利器
 > https://github.com/CoderZhuXH/XHDate.git
 
+##### 12.WXSTransition
+定义了各种uiviewcontroller的转场动画
+> https://github.com/alanwangmodify/WXSTransition.git
+
 ## 2.For Sharing/Rating/Ads
 ##### 1.iRate
 提示框提醒rate的小型库
